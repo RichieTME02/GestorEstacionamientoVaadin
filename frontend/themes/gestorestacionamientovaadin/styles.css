@@ -1,0 +1,7 @@
+@import url('./main-layout.css');
+@import url('./views/gestor-view.css');
+@import url('./views/ingreso-cliente-view.css');
+@import url('@fontsource/arvo/index.css');    html {
+--lumo-font-family: Arvo;
+
+    }
